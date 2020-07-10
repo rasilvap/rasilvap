@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I am a Software Developer with over 10 years of experience developing software with high standards and interacting with stakeholders from technical and non-technical backgrounds. Ensuring clarity, quality, and continuous delivery. I have a Bachelor's Degree in Telematics engineering and a Specialization in Software Engineering (Java 8 certified).
+
+I have worked with technologies such as Java, Groovy, NodeJs, Hibernate, SQL, spring, Java JEE, Oracle, Postgres Rest services, javaScript, ReactJ, NoSqlDb, Docker kubernetes, GCP, AWS among others. I am a self-starter with proven ability to build innovative practical and engaging applications.
+
+I am familiar with both Waterfall and Agile development methodologies. 
+
 <!--
 **rasilvap/rasilvap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
